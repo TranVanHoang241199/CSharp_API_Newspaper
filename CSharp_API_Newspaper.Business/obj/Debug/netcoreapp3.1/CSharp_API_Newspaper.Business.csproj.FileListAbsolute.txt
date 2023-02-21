@@ -1,0 +1,15 @@
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Business.csproj.AssemblyReference.cache
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Business.AssemblyInfoInputs.cache
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Business.AssemblyInfo.cs
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Business.csproj.CoreCompileInputs.cache
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\bin\Debug\netcoreapp3.1\CSharp_API_Newspaper.Business.deps.json
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\bin\Debug\netcoreapp3.1\CSharp_API_Newspaper.Business.dll
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\bin\Debug\netcoreapp3.1\CSharp_API_Newspaper.Business.pdb
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Business.dll
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Business.pdb
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\bin\Debug\netcoreapp3.1\CSharp_API_Newspaper.Common.dll
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\bin\Debug\netcoreapp3.1\CSharp_API_Newspaper.Common.pdb
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Business.csproj.CopyComplete
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\bin\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.dll
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Business\bin\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.pdb

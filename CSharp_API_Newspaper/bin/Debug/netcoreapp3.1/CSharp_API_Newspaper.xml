@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CSharp_API_Newspaper</name>
+    </assembly>
+    <members>
+        <member name="T:CSharp_API_Newspaper.AutoMapper.AutoMapperConfig">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CSharp_API_Newspaper.AutoMapper.AutoMapperConfig.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:CSharp_API_Newspaper.Controllers.UserAdminController">
+            <summary>
+            Controler của admin
+            </summary>
+        </member>
+        <member name="M:CSharp_API_Newspaper.Controllers.UserAdminController.#ctor(CSharp_API_Newspaper.Business.Services.IUserHandler)">
+            <summary>
+            ctr của UserAdminController
+            </summary>
+            <param name="userHandler"></param>
+        </member>
+        <member name="M:CSharp_API_Newspaper.Controllers.UserAdminController.GetAdmins(CSharp_API_Newspaper.Business.Services.UserQueryModel)">
+            <summary>
+            lấy tất cả admin
+            </summary>
+            <param name="query">nhập thông tin cần tìm kiếm</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:CSharp_API_Newspaper.Controllers.UserAdminController.GetAdmin(System.Guid)">
+            <summary>
+            lấy ra một admin cụ thể theo id
+            </summary>
+            <param name="id">nhập id của admin</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:CSharp_API_Newspaper.Controllers.UserAdminController.CreateAdmin(CSharp_API_Newspaper.Business.Services.AdminCreateUpdateModel)">
+            <summary>
+            tạo mới admin
+            </summary>
+            <param name="param">Nhập thông tin admin</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:CSharp_API_Newspaper.Controllers.UserAdminController.UpdateAdmin(System.Guid,CSharp_API_Newspaper.Business.Services.AdminCreateUpdateModel)">
+            <summary>
+            chỉnh sửa admin 
+            </summary>
+            <param name="id"></param>
+            <param name="param"></param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:CSharp_API_Newspaper.Controllers.UserAdminController.DeleteAdmin(System.Guid)">
+            <summary>
+            xóa một admin dựa vào id
+            </summary>
+            <param name="id">Nhập id của admin</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="T:CSharp_API_Newspaper.Controllers.UserMemberController">
+            <summary>
+            controler của member
+            </summary>
+        </member>
+        <member name="M:CSharp_API_Newspaper.Controllers.UserMemberController.#ctor(CSharp_API_Newspaper.Business.Services.IUserHandler)">
+            <summary>
+            ctr của member
+            </summary>
+            <param name="userHandler"></param>
+        </member>
+        <member name="M:CSharp_API_Newspaper.Controllers.UserMemberController.GetMembers(CSharp_API_Newspaper.Business.Services.UserQueryModel)">
+            <summary>
+            lấy ra danh sách member
+            </summary>
+            <param name="param">nhập thông tin cần tìm kiếm</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:CSharp_API_Newspaper.Controllers.UserMemberController.GetMember(System.Guid)">
+            <summary>
+            lấy ra một member cụ thể theo id
+            </summary>
+            <param name="id">nhập id của admin</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:CSharp_API_Newspaper.Controllers.UserMemberController.CreateMember(CSharp_API_Newspaper.Business.Services.MemberCreateUpdateModel)">
+            <summary>
+            tạo mới một member
+            </summary>
+            <param name="param">Nhập thông tin admin</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:CSharp_API_Newspaper.Controllers.UserMemberController.UpdateMember(System.Guid,CSharp_API_Newspaper.Business.Services.MemberCreateUpdateModel)">
+            <summary>
+            chỉnh sửa một member dựa vào id
+            </summary>
+            <param name="id"></param>
+            <param name="param"></param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:CSharp_API_Newspaper.Controllers.UserMemberController.DeleteMember(System.Guid)">
+            <summary>
+            xóa một member dựa vào id
+            </summary>
+            <param name="id">Nhập id của admin</param>
+            <response code="200">Thành công</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.AssemblyInfoInputs.cache
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.AssemblyInfo.cs
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.csproj.CoreCompileInputs.cache
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.csproj.AssemblyReference.cache
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\bin\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.deps.json
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\bin\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.dll
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\bin\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.pdb
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.dll
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.pdb
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\bin\Debug\netcoreapp3.1\CSharp_API_Newspaper.Common.dll
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\bin\Debug\netcoreapp3.1\CSharp_API_Newspaper.Common.pdb
+D:\developer\C#_dotnet\Projects_DotNet\CSharp_API_Newspaper\CSharp_API_Newspaper.Data\obj\Debug\netcoreapp3.1\CSharp_API_Newspaper.Data.csproj.CopyComplete
